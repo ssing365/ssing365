@@ -1,4 +1,10 @@
-## Hi there 👋
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ssing365"
+  width="600"
+  height="300"
+/>
+</a>
 <div style="display: flex;>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssing365&layout=compact" alt="Top Langs">
